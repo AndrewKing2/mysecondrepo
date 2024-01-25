@@ -18,7 +18,7 @@ calcTotal(thetax,price,myname)
 
 ####  PROBLEM 2  ####
 # print out ONLY the integers in the list below #
-list1 = [1,2,3.2,4,5]
+list1 = [1,'2',3.2,'4',5]
 
 for i in list1:
     if isinstance(i, int):
